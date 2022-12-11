@@ -21,10 +21,13 @@ project is based on "Motivate" data, a Bikeshare system used in some of the larg
     * average travel time
 4. __User info:__
     * counts of each user type
-    * counts of each gender (only available for NYC and Chicago)
-    * earliest, most recent, most common year of birth (only available for NYC and Chicago)
+    * counts of each gender (available for NYC and Chicago)
+    * earliest, most recent, most common year of birth (available for NYC and Chicago)
 
 ### Files used
 * chicago.csv
 * new_york_city.csv
 * washington.csv
+
+### Credits
+Some videos helped me in satr.codes website (git 101) course.
