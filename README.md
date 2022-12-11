@@ -30,4 +30,4 @@ project is based on "Motivate" data, a Bikeshare system used in some of the larg
 * washington.csv
 
 ### Credits
-Some videos helped me in satr.codes website (git 101) course.
+Videos helped me in satr.codes website (git 101) course
